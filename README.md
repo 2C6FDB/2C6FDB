@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/MHaRrTe9UF4AAAAC/shadowsugar-shadow-milk-cookie.gif" />
-</p>
+<div align="center">
+<img src="https://media1.tenor.com/m/MHaRrTe9UF4AAAAC/shadowsugar-shadow-milk-cookie.gif" />
+<br></br>
+  
+  ![](https://komarev.com/ghpvc/?username=2C6FDB&color=blueviolet)
+</div>
 
-<center>![w](https://komarev.com/ghpvc/?username=perisicnikola37)</center>
